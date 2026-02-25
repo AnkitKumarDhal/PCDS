@@ -4,8 +4,7 @@
 
 int main()
 {
-    float radius;
-    float area;
+    float radius, area;
 
     clrscr();
 
