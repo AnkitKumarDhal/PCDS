@@ -4,16 +4,14 @@
 
 int main()
 {
-    int a, b, c;
-    float s_peri;
-    float area;
+    float a, b, c, s_peri, area;
 
     printf("Enter the first side (a): ");
-    scanf("%d", &a);
+    scanf("%f", &a);
     printf("Enter the second side (b): ");
-    scanf("%d", &b);
+    scanf("%f", &b);
     printf("Enter the third side (c): ");
-    scanf("%d", &c);
+    scanf("%f", &c);
 
     s_peri = (a + b + c) / 2.0;
     area = sqrt(s_peri * (s_peri - a) * (s_peri - b) * (s_peri - c));
