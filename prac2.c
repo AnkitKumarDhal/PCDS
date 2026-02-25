@@ -5,12 +5,10 @@
 
 int main()
 {
-    float x;
-    float y;
+    float x, y;
     clrscr();
     printf("Enter the numbers: ");
     scanf("%f %f", &x, &y);
-    printf("The sum of the numbers is: %f\nThe product of the numbers is: %f",
-           x + y, x * y);
+    printf("The sum of the numbers is: %f\nThe product of the numbers is: %f", x + y, x * y);
     return 0;
 }
