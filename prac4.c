@@ -14,7 +14,7 @@ int main()
     scanf("%f", &height);
 
     area = (1.0 / 2) * (height * base);
-    printf("The area of the traigle is : %f", area);
+    printf("The area of the triangle is: %f", area);
 
     return 0;
 }
