@@ -10,5 +10,6 @@
 1.10 Write a program in C to find the area of a rectangle and square
 1.11 Write a program in C to find the simple interest for a given principal value and for a given period of time
 1.12 Write a program in C to swap two numbers using bitwise operator.
+1.13 Write a program in C to print a value using the preincrement operator
 1.13 write a program in C to print the value using preincrement and post increment operator
 1.14 write a program in C to do the operations using sizeof operator with different entities
