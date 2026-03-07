@@ -15,6 +15,6 @@ int main()
     scanf("%f", &r);
 
     si = p * t * r / 100;
-    printf("The simple interest on %f for %f years at %f is %f", p, t, r, si);
+    printf("The simple interest on %f for %f years at %f%% is %f", p, t, r, si);
     return 0;
 }
