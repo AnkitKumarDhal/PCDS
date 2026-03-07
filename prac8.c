@@ -7,10 +7,8 @@ int main()
 
     clrscr();
 
-    printf("Enter the first value: ");
-    scanf("%d", &a);
-    printf("Enter the second value: ");
-    scanf("%d", &b);
+    printf("Enter the values: ");
+    scanf("%d %d", &a, &b);
 
     printf("The original values of a: %d and b: %d\n", a, b);
 

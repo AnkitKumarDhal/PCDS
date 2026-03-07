@@ -6,6 +6,8 @@ int main()
 {
     float a, b, c, s_peri, area;
 
+    clrscr();
+
     printf("Enter the first side (a): ");
     scanf("%f", &a);
     printf("Enter the second side (b): ");
