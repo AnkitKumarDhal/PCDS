@@ -4,6 +4,8 @@
 int main()
 {
     int a, b;
+    clrscr();
+
     printf("Enter the number: ");
     scanf("%d", &a);
 
