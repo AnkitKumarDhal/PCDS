@@ -7,11 +7,10 @@ int main()
     printf("Enter the number: ");
     scanf("%d", &a);
 
-    b = ++a;
-    printf("After Pre-Increment: a = %d; b = %d", a, b);
+    printf("The initial value is: %d\n", a);
 
-    b = a++;
-    printf("After Post-Increment: a = %d; b = %d", a, b);
+    b = ++a + a++ + ++a + a++;
+    printf("The final value of a: %d and b: %d", a, b);
 
     return 0;
 }
