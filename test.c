@@ -2,11 +2,6 @@
 
 void main()
 {
-    int val = 1;
-    do
-    {
-        val++;
-        ++val;
-    } while (val++ > 25);
-    printf("%d\n", val);
+    int i = 1;
+    printf("%d%d%d", i, ++i, i++);
 }
