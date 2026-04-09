@@ -9,8 +9,6 @@ int main()
     printf("Enter the number: ");
     scanf("%d", &num);
 
-    fac = 1;
-
     while (i <= num)
     {
         fac *= i;
