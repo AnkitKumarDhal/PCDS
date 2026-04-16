@@ -6,7 +6,7 @@ int main()
     float C, C_F;
     clrscr();
 
-    printf("Enter the number in Celcius: ");
+    printf("Enter the number in Celsius: ");
     scanf("%f", &C);
 
     C_F = (9.0 / 5) * C + 32;
