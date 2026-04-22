@@ -1,4 +1,3 @@
-#include <bits/pthreadtypes.h>
 #include <conio.h>
 #include <stdio.h>
 
@@ -8,37 +7,36 @@ int main()
     float a, b;
     clrscr();
 
-    printf("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit\n");
-    scanf("%d", &ch);
-
-    if (ch != 5)
-    {
-        printf("Enter the two numbers: ");
-        scanf("%f %f", &a, &b);
-    }
-
     do
     {
+        printf("1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit\n");
+        scanf("%d", &ch);
+
+        if (ch != 5)
+        {
+            printf("Enter the two numbers: ");
+            scanf("%f %f", &a, &b);
+        }
         switch (ch)
         {
         case 1:
-            printf("Sum: %f", a + b);
+            printf("Sum: %f\n", a + b);
             break;
         case 2:
-            printf("Difference: %f", a - b);
+            printf("Difference: %f\n", a - b);
             break;
         case 3:
-            printf("Product: %f", a * b);
+            printf("Product: %f\n", a * b);
             break;
         case 4:
             if (b != 0)
             {
-                printf("Division: %f", a / b);
+                printf("Division: %f\n", a / b);
                 break;
             }
             else
             {
-                printf("Division by 0!");
+                printf("Division by 0!\n");
                 break;
             }
         case 5:
