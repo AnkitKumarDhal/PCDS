@@ -22,7 +22,6 @@ int main()
     else if (D == 0)
     {
         r1 = (-b) / (2 * a);
-        r2 = r1;
         printf("The Roots are real and equal.\n");
         printf("The roots are: %f\n", r1);
     }
