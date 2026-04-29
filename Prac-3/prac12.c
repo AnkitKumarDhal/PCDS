@@ -3,7 +3,7 @@
 
 int main()
 {
-    int n1, n2, gcd;
+    int i, n1, n2, gcd;
     clrscr();
 
     printf("Enter two integers: ");
