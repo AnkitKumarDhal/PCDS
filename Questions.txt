@@ -39,3 +39,13 @@
 3.10 WAP to reverse a given number
 3.11 WAP to display the Fibonacci series up to n terms
 3.12 WAP to display the GCD of two numbers
+
+4.1  WAP to input an array and display the contents of the array. 
+4.2  WAP to find the first and second highest element of an array. 
+4.3  WAP to search an element using linear search. 
+4.4  WAP to sort elements using bubble sort. 
+4.5  WAP to merge 2 arrays into a new array. 
+4.6  WAP to print the elements of an array in reverse order. 
+4.7  WAP to add 2 matrices
+4.8  WAP to calculate the sum of diagonal elements of a matrix. 
+4.9  WAP to display the transpose of a matrix. 
