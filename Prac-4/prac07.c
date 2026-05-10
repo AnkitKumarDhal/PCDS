@@ -1,10 +1,9 @@
 #include <conio.h>
 #include <stdio.h>
 
-void main()
+int main()
 {
-    int a[10][10], b[10][10], sum[10][10];
-    int r, c, i, j;
+    int a[10][10], b[10][10], sum[10][10], r, c, i, j;
     clrscr();
 
     printf("Enter the number of rows and columns: ");
@@ -39,4 +38,5 @@ void main()
         printf("\n");
     }
     getch();
+    return 0;
 }
