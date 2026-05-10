@@ -1,3 +1,6 @@
+# C Programming Practice Questions
+
+## 1. Basic I/O and Operators
 1.1  WAP in C to print "Hello, World!".
 1.2  WAP in C to find the sum and product of two numbers.
 1.3  WAP in C to convert Centigrade to Farhenheit and vice versa.
@@ -14,6 +17,7 @@
 1.14 WAP in C to print the value using preincrement and post increment operator.
 1.15 WAP in C to do the operations using sizeof operator with different entities.
 
+## 2. Conditional Statements
 2.1  WAP to check whether the input number is odd or even.
 2.2  WAP to check whether input number is positive or negative.
 2.3  WAP to check whether the input value is an alphabet or not.
@@ -27,6 +31,7 @@
 2.11 WAP to find the roots of a quadratic equation.
 2.12 WAP to perform the operations of a simple calculator by using switchcase statement.
 
+## 3. Loops and Iteration
 3.1  WAP to print the table of 5
 3.2  WAP to find the average of 50 numbers using do-while
 3.3  WAP to find the even and odd numbers from 1-100
@@ -40,6 +45,7 @@
 3.11 WAP to display the Fibonacci series up to n terms
 3.12 WAP to display the GCD of two numbers
 
+## 4. Arrays and Matrices
 4.1  WAP to input an array and display the contents of the array. 
 4.2  WAP to find the first and second highest element of an array. 
 4.3  WAP to search an element using linear search. 
@@ -50,12 +56,14 @@
 4.8  WAP to calculate the sum of diagonal elements of a matrix. 
 4.9  WAP to display the transpose of a matrix. 
 
+## 5. Strings
 5.1  WAP to concatenate two strings using third string witohut using any library functions
 5.2  WAP to find the length of a string without using library function
 5.3  WAP to reverse a string witohut using library function
 5.4  WAP to compare two strings without using library function
 5.5  WAP to eliminate multiple occurrence of a character in a given string
 
+## 6. Functions and Recursion
 6.1  WAP to find sum of all diagonal elements of a matrix using functions
 6.2  WAP to find the factorial of a number using functions
 6.3  WAP to find prime numbers between 2 numbers using functions
