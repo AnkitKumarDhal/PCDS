@@ -10,12 +10,12 @@
 **1.7**&nbsp;&nbsp;WAP in C to print the ASCII value of a character.<br>
 **1.8**&nbsp;&nbsp;WAP in C to swap two numbers using a third variable.<br>
 **1.9**&nbsp;&nbsp;WAP in C to swap two numbers without using a third variable.<br>
-**1.10**&nbsp;&nbsp;WAP in C to find the area of a rectangle and square.<br>
-**1.11**&nbsp;&nbsp;WAP in C to find the simple interest for a given principal value and for a given period of time.<br>
-**1.12**&nbsp;&nbsp;WAP in C to swap two numbers using bitwise operator.<br>
-**1.13**&nbsp;&nbsp;WAP in C to print a value using the preincrement operator.<br>
-**1.14**&nbsp;&nbsp;WAP in C to print the value using preincrement and post increment operator.<br>
-**1.15**&nbsp;&nbsp;WAP in C to do the operations using sizeof operator with different entities.<br>
+**1.10**&nbsp;WAP in C to find the area of a rectangle and square.<br>
+**1.11**&nbsp;WAP in C to find the simple interest for a given principal value and for a given period of time.<br>
+**1.12**&nbsp;WAP in C to swap two numbers using bitwise operator.<br>
+**1.13**&nbsp;WAP in C to print a value using the preincrement operator.<br>
+**1.14**&nbsp;WAP in C to print the value using preincrement and post increment operator.<br>
+**1.15**&nbsp;WAP in C to do the operations using sizeof operator with different entities.<br>
 
 ## 2. Conditional Statements
 **2.1**&nbsp;&nbsp;WAP to check whether the input number is odd or even.<br>
@@ -27,9 +27,9 @@
 **2.7**&nbsp;&nbsp;WAP to check whether the input character is vowel or not.<br>
 **2.8**&nbsp;&nbsp;WAP to convert uppercase letter to lowercase and vice versa.<br>
 **2.9**&nbsp;&nbsp;WAP to check whether the input year is a leap year or not.<br>
-**2.10**&nbsp;&nbsp;WAP to input the angles of a triangle and check whether the triangle is valid or not.<br>
-**2.11**&nbsp;&nbsp;WAP to find the roots of a quadratic equation.<br>
-**2.12**&nbsp;&nbsp;WAP to perform the operations of a simple calculator by using switchcase statement.<br>
+**2.10**&nbsp;WAP to input the angles of a triangle and check whether the triangle is valid or not.<br>
+**2.11**&nbsp;WAP to find the roots of a quadratic equation.<br>
+**2.12**&nbsp;WAP to perform the operations of a simple calculator by using switchcase statement.<br>
 
 ## 3. Loops and Iteration
 **3.1**&nbsp;&nbsp;WAP to print the table of 5<br>
@@ -41,9 +41,9 @@
 **3.7**&nbsp;&nbsp;WAP to check the given numbers are perfect or not<br>
 **3.8**&nbsp;&nbsp;WAP to find the factorial<br>
 **3.9**&nbsp;&nbsp;WAP to check whether the input number is palindrome or not<br>
-**3.10**&nbsp;&nbsp;WAP to reverse a given number<br>
-**3.11**&nbsp;&nbsp;WAP to display the Fibonacci series up to n terms<br>
-**3.12**&nbsp;&nbsp;WAP to display the GCD of two numbers<br>
+**3.10**&nbsp;WAP to reverse a given number<br>
+**3.11**&nbsp;WAP to display the Fibonacci series up to n terms<br>
+**3.12**&nbsp;WAP to display the GCD of two numbers<br>
 
 ## 4. Arrays and Matrices
 **4.1**&nbsp;&nbsp;WAP to input an array and display the contents of the array.<br>
