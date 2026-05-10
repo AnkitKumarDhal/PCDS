@@ -1,15 +1,15 @@
 # C Programming Practice Questions
 
 ## 1. Basic I/O and Operators
-- **1.1** WAP in C to print "Hello, World!".
-- **1.2** WAP in C to find the sum and product of two numbers.
-- **1.3** WAP in C to convert Centigrade to Farhenheit and vice versa.
-- **1.4** WAP in C to calculate the area of a triangle with base and height.
-- **1.5** WAP in C to calculate the area of a circle.
-- **1.6** WAP in C to calculate the area of a triangle with Heron's Formula.
-- **1.7** WAP in C to print the ASCII value of a character.
-- **1.8** WAP in C to swap two numbers using a third variable.
-- **1.9** WAP in C to swap two numbers without using a third variable.
+- **1.1**  WAP in C to print "Hello, World!".
+- **1.2**  WAP in C to find the sum and product of two numbers.
+- **1.3**  WAP in C to convert Centigrade to Farhenheit and vice versa.
+- **1.4**  WAP in C to calculate the area of a triangle with base and height.
+- **1.5**  WAP in C to calculate the area of a circle.
+- **1.6**  WAP in C to calculate the area of a triangle with Heron's Formula.
+- **1.7**  WAP in C to print the ASCII value of a character.
+- **1.8**  WAP in C to swap two numbers using a third variable.
+- **1.9**  WAP in C to swap two numbers without using a third variable.
 - **1.10** WAP in C to find the area of a rectangle and square.
 - **1.11** WAP in C to find the simple interest for a given principal value and for a given period of time.
 - **1.12** WAP in C to swap two numbers using bitwise operator.
