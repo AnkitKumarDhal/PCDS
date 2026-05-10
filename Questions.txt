@@ -63,3 +63,6 @@
 6.5  WAP to find factorial of a number using recursion
 6.6  WAP to find Fibonacciseries using recursion
 6.7  WAP to find power of a given number using recursion
+
+7.1  WAP to print roll no., name, building name, street name, city name using structure
+7.2  WAP to print details of a student using structure and functions
