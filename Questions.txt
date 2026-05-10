@@ -66,3 +66,15 @@
 
 7.1  WAP to print roll no., name, building name, street name, city name using structure
 7.2  WAP to print details of a student using structure and functions
+
+8.1  WAP to swap 2 numbers using call by reference
+8.2  WAP to input and print elements of an array using pointers
+8.3  WAP to copy the elements of an array into another array using pointers
+8.4  WAP to reverse elements of an array using pointers and functions
+8.5  WAP to search elements of an array using pointers and functions
+8.6  WAP to input and print elements of a matrix using pointers
+8.7  WAP to add 2 matrices using pointers
+8.8  WAP to find the length of a string using pointers
+8.9  WAP to reverse a string using pointers
+8.10 WAP to sort elements of an array using pointers and functions
+8.11 WAP to find the fatorial of a number using pointers and functions
