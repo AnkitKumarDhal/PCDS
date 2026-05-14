@@ -10,7 +10,9 @@ void prime(int n1, int n2)
         {
             continue;
         }
+
         is_prime = 1;
+
         for (j = 2; j <= i / 2; j++)
         {
             if (i % j == 0)
@@ -19,6 +21,7 @@ void prime(int n1, int n2)
                 break;
             }
         }
+
         if (is_prime == 1)
         {
             printf("%d ", i);
