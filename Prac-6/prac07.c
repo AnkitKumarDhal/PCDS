@@ -9,7 +9,7 @@ int power(int base, int exp)
     }
     else
     {
-        return base * power(base, exp);
+        return base * power(base, exp-1);
     }
 }
 
